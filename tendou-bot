@@ -7,7 +7,6 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 // Login into discord using bot token (do not share token with anyone!).
-client.login("Njk3MjcwNDQzMTgyMTI5MTYy.Xo01xg.tNocQ9q6qgYRaOTF9cf5WoClBok");
 
 client.on('ready', () => {
 
